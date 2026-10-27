@@ -1,23 +1,4 @@
-# Python bytecode
+﻿.venv/
 __pycache__/
 *.py[cod]
-*$py.class
-
-# Virtual environments
-venv/
-env/
-ENV/
-.env
-
-# Model files
-*.keras
-*.h5
-*.model/
-*.model
-
-# Logs
-*.log
-
-# Downloaded files / Cache
-.keras/
-shakespeare.txt
+poetry_generation.log
